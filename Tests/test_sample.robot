@@ -22,12 +22,11 @@ Test Import Python Class From A Library
     Log  array1: @{list1}
     sample_library.hello
 
-
-
 Test Import Python Function
     Greet Hello
 
 # ------------------------------------------------------------
+# Commands to Run
 # > Tests
 # pybot -d ..\Results test_sample.robot
 # pybot -d ..\Results --include REMOTE *.robot
